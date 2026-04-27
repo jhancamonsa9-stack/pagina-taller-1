@@ -1,5 +1,16 @@
+*{
+  margin: 0;  
+  padding: 0;
+  box-sizing: border-box;
+}
+.miltonian-tattoo-regular {
+  font-family: "Miltonian Tattoo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 h1 {
-    color:grey
+    color:#b71167
 }
 #fotologo
 {
@@ -17,3 +28,26 @@ h1 {
 {
     border: 2px solid blue; /*Una propiedad y su valor*/
 }
+#formularioInscripcion > label {
+
+    color: red;
+}
+h2 ~ p
+{
+    color:green;
+    font-weight: bold;
+}
+#cajalogo
+{
+    width: 100%;
+    background-color: blueviolet;
+}   
+#textologo
+{
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 50px;
+    
+}
+
