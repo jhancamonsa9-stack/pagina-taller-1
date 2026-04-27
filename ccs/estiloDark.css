@@ -1,3 +1,19 @@
 h1 {
     color:grey
 }
+#fotologo
+{
+    width: 300px;
+    height: 300px;
+}
+/*UN ID*/
+#fotoanimada
+{
+   width: 300px;
+   height: 300px; 
+}
+/*UNA CALSE*/
+.bordes
+{
+    border: 2px solid blue; /*Una propiedad y su valor*/
+}
